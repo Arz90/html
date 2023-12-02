@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+
+p{
+    font-size: 20px;
+}
+
+.line{
+    height: 6px;
+    width: 100%;
+    background-color: green;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#name {
+    font-size: 80px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+
+.apartado{
+    font-size: 60px;
+
+}
