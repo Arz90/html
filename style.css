@@ -5,7 +5,7 @@ body{
 }
 
 p{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .line{
@@ -29,5 +29,20 @@ p{
 }
 .date{
     font-style: italic;
+    font-size: 30px;
 
+}
+
+.posicion{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#font {
+    font-size: 20px;
+}
+
+.margin{
+    margin: 60px auto;
 }
